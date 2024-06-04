@@ -31,37 +31,14 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://yourblog.com/post-url)
-- [Post Title](https://yourblog.com/post-url)
-- [Post Title](https://yourblog.com/post-url)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github-pages&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-shakya/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/JatinShakya809)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jatinshakya809)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github-pages&logoColor=white)](https://jatin-shakya.vercel.app/)
 
 ## 💬 My Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 30 mins ███████████████████░░░░░░   75.13 %
-Python       2 hrs 30 mins  ████████████░░░░░░░░░░░░░   24.87 %
-Other        0 hrs 0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
