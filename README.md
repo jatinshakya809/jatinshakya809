@@ -1,6 +1,6 @@
 # Hi there, I'm Jatin 👋
 
-![Your Banner Image]([https://jatin-shakya.vercel.app/DSC_2205.JPG](https://github.com/jatinshakya809/My-Portfolio/blob/main/public/DSC_2205.JPG))
+![Your Banner Image](https://raw.githubusercontent.com/jatinshakya809/My-Portfolio/main/public/DSC_2205.JPG)
 
 ## About Me
 
