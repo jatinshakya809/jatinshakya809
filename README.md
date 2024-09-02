@@ -1,6 +1,6 @@
 # Hi there, I'm Jatin 👋
 
-![Your Banner Image](https://raw.githubusercontent.com/jatinshakya809/My-Portfolio/main/public/DSC_2205.JPG)
+![Your Banner Image](https://github.com/jatinshakya809/My-Portfolio/blob/main/public/DSC_2205%20copy.jpg)
 
 ## About Me
 
